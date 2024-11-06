@@ -1,0 +1,18 @@
+D:\PROJECT CODE\Code C#\obj\Debug\net8.0\Code C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT CODE\Code C#\obj\Debug\net8.0\Code C#.AssemblyInfoInputs.cache
+D:\PROJECT CODE\Code C#\obj\Debug\net8.0\Code C#.AssemblyInfo.cs
+D:\PROJECT CODE\Code C#\obj\Debug\net8.0\Code C#.csproj.CoreCompileInputs.cache
+D:\PROJECT CODE\CodeCsharp\obj\Debug\net8.0\Code C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT CODE\CodeCsharp\obj\Debug\net8.0\Code C#.AssemblyInfoInputs.cache
+D:\PROJECT CODE\CodeCsharp\obj\Debug\net8.0\Code C#.AssemblyInfo.cs
+D:\PROJECT CODE\CodeCsharp\obj\Debug\net8.0\Code C#.csproj.CoreCompileInputs.cache
+D:\PROJECT CODE\CodeCsharp\bin\Debug\net8.0\Code C#.exe
+D:\PROJECT CODE\CodeCsharp\bin\Debug\net8.0\Code C#.deps.json
+D:\PROJECT CODE\CodeCsharp\bin\Debug\net8.0\Code C#.runtimeconfig.json
+D:\PROJECT CODE\CodeCsharp\bin\Debug\net8.0\Code C#.dll
+D:\PROJECT CODE\CodeCsharp\bin\Debug\net8.0\Code C#.pdb
+D:\PROJECT CODE\CodeCsharp\obj\Debug\net8.0\Code C#.dll
+D:\PROJECT CODE\CodeCsharp\obj\Debug\net8.0\refint\Code C#.dll
+D:\PROJECT CODE\CodeCsharp\obj\Debug\net8.0\Code C#.pdb
+D:\PROJECT CODE\CodeCsharp\obj\Debug\net8.0\Code C#.genruntimeconfig.cache
+D:\PROJECT CODE\CodeCsharp\obj\Debug\net8.0\ref\Code C#.dll
