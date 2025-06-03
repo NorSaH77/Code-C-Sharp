@@ -1,0 +1,10 @@
+D:\PROJECT CODE\Csharpwf\shutdownpc\bin\Debug\shutdownpc.exe.config
+D:\PROJECT CODE\Csharpwf\shutdownpc\bin\Debug\shutdownpc.exe
+D:\PROJECT CODE\Csharpwf\shutdownpc\bin\Debug\shutdownpc.pdb
+D:\PROJECT CODE\Csharpwf\shutdownpc\obj\Debug\shutdownpc.csproj.AssemblyReference.cache
+D:\PROJECT CODE\Csharpwf\shutdownpc\obj\Debug\shutdownpc.Form1.resources
+D:\PROJECT CODE\Csharpwf\shutdownpc\obj\Debug\shutdownpc.Properties.Resources.resources
+D:\PROJECT CODE\Csharpwf\shutdownpc\obj\Debug\shutdownpc.csproj.GenerateResource.cache
+D:\PROJECT CODE\Csharpwf\shutdownpc\obj\Debug\shutdownpc.csproj.CoreCompileInputs.cache
+D:\PROJECT CODE\Csharpwf\shutdownpc\obj\Debug\shutdownpc.exe
+D:\PROJECT CODE\Csharpwf\shutdownpc\obj\Debug\shutdownpc.pdb
